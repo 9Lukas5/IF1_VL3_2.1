@@ -8,4 +8,8 @@ public class Arbeitsstundenrechner
         
     }
 
+    public static float calculateWorkTime(int workedMinutes)
+    {
+        
+    }
 }
