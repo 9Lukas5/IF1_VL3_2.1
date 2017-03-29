@@ -5,7 +5,7 @@ public class Arbeitsstundenrechner
 
     public static void main(String[] args)
     {
-        
+        calculateWorkTime(20);
     }
 
     public static float calculateWorkTime(int workedMinutes)
