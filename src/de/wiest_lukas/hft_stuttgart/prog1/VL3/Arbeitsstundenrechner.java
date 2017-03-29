@@ -10,6 +10,6 @@ public class Arbeitsstundenrechner
 
     public static float calculateWorkTime(int workedMinutes)
     {
-        
+        return workedMinutes / 60;
     }
 }
